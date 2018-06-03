@@ -1,0 +1,154 @@
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\8s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Даниил Чернышев\Desktop\STUDIES\OOP\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.g.cs
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.g.cs
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.g.cs
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.baml
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.baml
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.baml
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Vokamrecom\Desktop\OOP-master\OOP-master\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.g.cs
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.g.cs
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.g.cs
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.baml
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.baml
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.baml
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Кирилл\Универ\ООП\Лабы\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.g.cs
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.g.cs
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.g.cs
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.baml
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.baml
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.baml
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bazil\Desktop\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.g.cs
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.g.cs
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.g.cs
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWin.baml
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\ChannelWindow.baml
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\ItemWindow.baml
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\3 СЕМ\ООП\9s lab\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
